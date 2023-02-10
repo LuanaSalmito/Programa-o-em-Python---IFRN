@@ -1,2 +1,5 @@
-# Programa-o-em-Python---IFRN
-Matéria de programação de computadores, 1º período.
+# Programação de computadores.
+Matéria de programação de computadores, la linguagem Python, 1º período.
+
+
+
